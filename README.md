@@ -31,25 +31,6 @@ A detailed list of all the questions answered is available [here](#questions-ans
 
 An interactive dashboard provides a quick and informative snapshot of the data, tailored to the company you are interested in. It allows you to dive deep into the specifics of company investments and acquisitions.
 
-## Getting Started
-
-To run this project locally, you'll need to:
-
-1. Clone the repository:
-    ```
-    git clone https://github.com/yourusername/company-data-analysis.git
-    ```
-
-2. Install the required Python packages:
-    ```
-    pip install -r requirements.txt
-    ```
-
-3. Open the Jupyter notebook:
-    ```
-    jupyter notebook company_data_analysis.ipynb
-    ```
-
 ## Questions Answered
 
 <details>
