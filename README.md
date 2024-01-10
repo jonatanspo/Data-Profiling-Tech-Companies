@@ -25,7 +25,7 @@ Throughout the analysis, the project addresses multiple queries including but no
 - Influence of company size on fundraising amounts.
 - CEO background analysis.
 
-A detailed list of all the questions answered is available [here](#questions-answered).
+A detailed list of all the questions answered is available [here](#https://github.com/jonatanspo/Data-Profiling-Tech-Companies/blob/main/Data%20Profiling%20Tech%20Companies.ipynb).
 
 ## Dashboard
 
