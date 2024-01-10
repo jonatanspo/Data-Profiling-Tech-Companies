@@ -25,8 +25,6 @@ Throughout the analysis, the project addresses multiple queries including but no
 - Influence of company size on fundraising amounts.
 - CEO background analysis.
 
-A detailed list of all the questions answered is available [here](#https://github.com/jonatanspo/Data-Profiling-Tech-Companies/blob/main/Data%20Profiling%20Tech%20Companies.ipynb).
-
 ## Dashboard
 
 An interactive dashboard provides a quick and informative snapshot of the data, tailored to the company you are interested in. It allows you to dive deep into the specifics of company investments and acquisitions.
